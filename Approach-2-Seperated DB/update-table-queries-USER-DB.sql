@@ -1,4 +1,4 @@
-# UM_DB Update Queries
+# USER_DB Update Queries
 ----------------------
 
 # 1. UM_DOMAIN
