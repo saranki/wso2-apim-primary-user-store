@@ -15,3 +15,5 @@ This is the default setup in the product.
  - WSO2USER_DB
 
 This repository consist of DB queries to revert the primary user store domain name to PRIMARY. These were tested in wso2am-3.2.0, MySQL-8.0.22 in an all-in-one setup. Please select the scripts based on your DB setup.
+
+Please refer https://m-saranki.medium.com/donts-in-jdbc-primary-user-store-76ae99a5a27f to get in-depth idea of the overall issue and the solution.
